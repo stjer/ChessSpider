@@ -7,4 +7,5 @@ The archive page used by ChessSpider: https://www.chess.com/games/archive?gameOw
 
 ###
 this is edited script of : https://github.com/poolziee/ChessSpider/tree/master/src
+
 this script doesn't analysis daily games cause of archive page link.
