@@ -15,4 +15,5 @@ this script doesn't analysis daily games cause of archive page link.
 # requirements
 
 You have the Unlimited Game Review feature enabled (Platinum or Diamond subscription) on chess.com.
+
 You have the Selenium WebDriver package (v4.10.0) in your Python (v3.8.13) environment.
